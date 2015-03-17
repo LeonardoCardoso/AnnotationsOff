@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "AnnotationsOff",
-  "description": "This extension removes all unwanted annotations in Youtube videos",
+  "description": "This extension removes all unwanted annotations and cards on Youtube videos",
   "version": "1.0",
   "background": {
     "persistent": false,

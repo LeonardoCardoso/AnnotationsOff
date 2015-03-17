@@ -13,7 +13,7 @@ function execute(updateInput, jquery) {
 }
 
 function changeAnnotations(document, display) {
-    var css = '.video-annotations { display: ' + display + ' !important; }';
+    var css = '.video-annotations, .iv-drawer-teaser { display: ' + display + ' !important; }';
     var head = document.getElementsByTagName('head')[0],
         style = document.createElement('style');
 
