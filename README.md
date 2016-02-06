@@ -6,9 +6,9 @@ Developed by <a href='https://github.com/LeonardoCardoso' target='_blank'>@Leona
 An extension for Google Chrome (and Chromium) that removes all unwanted annotations and cards in YouTube videos.
 
 
-![cb2](https://dl.dropboxusercontent.com/s/5brve0q8smy2ipq/ao1.png)
+![cb2](http://i.imgur.com/QpLERSB.png)
 
-![cb2](https://dl.dropboxusercontent.com/s/vgd5sovlq4fjewa/ao2.png)
+![cb2](http://i.imgur.com/kGe8vPJ.png)
 
 
 Installation
