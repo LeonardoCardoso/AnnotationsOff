@@ -16,8 +16,6 @@ Installation
 
 The latest release is always available on the Chrome Web Store accessing by this link <a href="https://chrome.google.com/webstore/detail/annotationsoff/gpifenckpeaielkgcbakjanpdppfnapn">AnnotationsOff</a>
 
-For more information, visit http://lab.leocardz.com/annotationsoff
-
 ## Contact
 
 Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
